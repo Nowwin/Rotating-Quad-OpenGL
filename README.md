@@ -1,6 +1,4 @@
 # Rotating-Quad-OpenGL
-Rendered a Quad in OpenGL
-# OpenGL Example with SDL2
 
 ## Overview
 
