@@ -35,7 +35,7 @@ GLuint gVertexBufferObject = 0;
 GLuint gIndexBufferObject = 0;
 GLuint gGraphicsPipelineShaderProgram = 0;
 
-float gUOffset = -1.0f;
+float gUOffset = -2.0f;
 float gURotation = 0.0f;
 
 //Error Handling
