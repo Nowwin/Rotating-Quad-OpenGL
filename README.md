@@ -4,6 +4,10 @@
 
 This project is a simple example that demonstrates the usage of OpenGL in tandem with SDL2 to create a graphical application. It shows how to set up a basic vertex and fragment shader, handle user input for translation and rotation, and also how to draw a shape using the vertex and index buffer.
 
+Youtube video: https://youtu.be/kaYcwbbh7qo
+
+![Quad Rendered](images/quad.png)
+
 ## Dependencies
 
 - OpenGL
